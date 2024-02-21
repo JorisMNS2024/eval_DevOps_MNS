@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joris\\Desktop\\Cours MNS\\DevOps\\PratiqueWithCode_Groupe2_Subject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{516E85F7-EEF7-4B5A-84C9-99A45934AA49}|EvaluationSampleCode.UnitTests\\EvaluationSampleCode.UnitTests.csproj|c:\\users\\joris\\desktop\\cours mns\\devops\\pratiquewithcode_groupe2_subject\\evaluationsamplecode.unittests\\baptizmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516E85F7-EEF7-4B5A-84C9-99A45934AA49}|EvaluationSampleCode.UnitTests\\EvaluationSampleCode.UnitTests.csproj|solutionrelative:evaluationsamplecode.unittests\\baptizmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaptizmTests.cs",
+              "DocumentMoniker": "C:\\Users\\joris\\Desktop\\Cours MNS\\DevOps\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode.UnitTests\\BaptizmTests.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode.UnitTests\\BaptizmTests.cs",
+              "ToolTip": "C:\\Users\\joris\\Desktop\\Cours MNS\\DevOps\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode.UnitTests\\BaptizmTests.cs",
+              "RelativeToolTip": "EvaluationSampleCode.UnitTests\\BaptizmTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:29:28.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
